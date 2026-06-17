@@ -1,0 +1,10 @@
+SIEM(Security Operation Center): Splunk, Micorosoft sentinal
+SOAR(Security Orchestration automation and response):Swimlane
+OT(Operational Technology): Nozomi networks
+Cloud: AWS, Azure, Google cloud platform (GCP)
+Email security solution:Proofpoint, Fireeye EX, Agari Phishing defence 
+EndPoint detection and response: Crowdstrike, Micorosoft defender 
+Language: 
+  Python
+  Splunk processing Language
+  Kusto query Language
