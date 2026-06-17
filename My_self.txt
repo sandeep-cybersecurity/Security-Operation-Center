@@ -1,0 +1,24 @@
+Hello Sir, Good Morning - Good afternoon - Good evening
+Thank you for giving me an oppuritunity to introduse myself 
+My name is sandeep bhagat. 
+I am from Ranchi Jharkhand india. 
+I have 6+ years of experience in cyber security domain
+I am specilized in Security Operation Center, Threat detection and Incident response for both IT and OT security. 
+I am working with E&Y Global delivery services as Senior security consultant. 
+As a senior security consultant with 6+ years of experience I was responsible for 
+     1. Round the clock monitoring security events and unusual network activities for both (Informational technology) and (Operational technology) and cloud technology and to achive this 
+        I was laveraging multiple tools and technology like:
+        Security Information and Event Management (SIEM): Splunk, Micorosoft sentinal, Swimlane (SOAR), Netwitness that we was using for data packet analysis
+        Operational Technology(OT): Nozomi
+        Cloud Technology: AWS, AZURE and Microsoft. 
+     2.  After analyzing the alerts either we conclude true positive or False positive. If we conclude true positive we collect all the indicator of compromises and initiate 
+        incident response protocol to mittigate the security threat if we conclude false positive we identify the root cause of that, and participate in the fine tunning process for better alerting.
+     3. I have also idetify the critical usecase for which alerting should be enabled and desgin and developed the Standered Operational document(SOP) that include 
+        triaging the alert, investigating the alert, remidiating the security vulerability.
+     4. I have also participated and Lead the war room, addressed high fidelity alerts and provided solution for escalated incidnets point raised by L1 engineers. 
+        conducted both static and dynamic malware analysis. 
+     5. Desgin and implimented splunk dashboard for the security analyst to effectivaly track and optimize productivity matrix and alert volume (how many alert are in Q for each analyst )
+Thats all about my work profile, I love to capture movments and learning new technology. 
+
+
+Would you like to know more about the tools and technology that I have experience in past 6 six years in details. 
